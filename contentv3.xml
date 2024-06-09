@@ -29,18 +29,7 @@
   <string role="key" value="_exportElp"></string>
   <bool value="0"></bool>
   <string role="key" value="_extraHeadContent"></string>
-  <unicode value="&lt;script&gt;
-
-// PARA COLAPSAR LOS IDEVICES EXCEPTO EL PRIMERO
-
-$(window).load(function(){
-    $(&quot;p.toggle-idevice a&quot;).each(function(i){
-        if (i&gt;0) $(this).click();
-    });
-});
-
-&lt;/script&gt;
-"></unicode>
+  <unicode value=""></unicode>
   <string role="key" value="_fieldValidationInfo"></string>
   <dictionary>
    <unicode role="key" value="all"></unicode>
@@ -84,7 +73,7 @@ $(window).load(function(){
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value="learner"></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="0"></bool>
+  <bool value="1"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
