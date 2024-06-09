@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   preserveAspectRatio="xMinYMid"
+   viewbox="0 0 60 60"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="icon_udl_eng_rubrica.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview30"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="4.1866667"
+     inkscape:cx="145.46178"
+     inkscape:cy="74.880573"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="elements" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#499113;}.cls-2{fill:#fff;}</style>
+  </defs>
+  <title
+     id="title6">estilos iconos paraeducaand_adultos</title>
+  <g
+     id="back">
+    <path
+       class="cls-1"
+       d="M 58.08,25.37 34.63,1.92 a 6.55,6.55 0 0 0 -9.26,0 L 1.92,25.37 a 6.54,6.54 0 0 0 0,9.26 l 23.45,23.45 a 6.54,6.54 0 0 0 9.26,0 L 58.08,34.63 a 6.54,6.54 0 0 0 0,-9.26 z"
+       id="path8"
+       style="fill:#333333;fill-opacity:1" />
+  </g>
+  <g
+     id="elements">
+    <path
+       class="cls-2"
+       d="M 44.22,18.19 A 2.29,2.29 0 0 0 41.94,15.91 H 18.41 a 2.5,2.5 0 0 0 -2.5,2.5 v 23.18 a 2.5,2.5 0 0 0 2.5,2.5 h 23.18 a 2.49,2.49 0 0 0 2.48,-2.34 2.91,2.91 0 0 0 0.15,-0.89 z m -1.13,10 H 37.8 v -7 h 5.29 z m -6.29,0 h -5.06 v -7 h 5.06 z m -6.06,0 h -5.16 v -7 h 5.16 z m 0,1 v 6.63 h -5.16 v -6.67 z m 1,0 h 5.06 v 6.63 h -5.06 z m 6.06,0 h 5.29 v 6.63 H 37.8 Z m 3.79,-12.24 a 1.5,1.5 0 0 1 1.5,1.5 v 1.73 H 37.8 v -3 a 0.23,0.23 0 0 1 0.23,-0.23 z m -4.74,0 a 1,1 0 0 0 -0.05,0.23 v 3 h -5.06 v -3.27 z m -6.11,0 v 3.23 h -5.16 v -3.27 z m -13.83,1.5 a 1.5,1.5 0 0 1 1.5,-1.5 h 6.17 v 3.23 h -7.67 z m 0,2.73 h 7.67 v 7 h -7.67 z m 7.67,8 v 6.63 h -7.67 v -6.66 z m -6.17,13.91 a 1.5,1.5 0 0 1 -1.5,-1.5 v -4.81 h 7.67 v 6.31 z m 7.17,0 v -6.31 h 5.16 v 6.31 z m 6.16,-6.31 h 5.06 v 6.08 a 1,1 0 0 0 0.05,0.23 H 31.74 Z M 38,43.09 a 0.23,0.23 0 0 1 -0.23,-0.23 v -6.08 h 5.29 v 4.78 A 2.22,2.22 0 0 1 41,43.09 Z"
+       id="path11" />
+    <polygon
+       class="cls-2"
+       points="30,31.85 29.29,31.14 27.74,32.7 27.05,31.91 26.29,32.56 27.68,34.17 "
+       id="polygon13" />
+    <polygon
+       class="cls-2"
+       points="42.3,23.9 41.59,23.2 40.04,24.75 39.35,23.96 38.59,24.61 39.98,26.22 "
+       id="polygon15" />
+    <polygon
+       class="cls-2"
+       points="33.16,38.97 32.41,39.63 33.8,41.23 36.11,38.92 35.41,38.21 33.85,39.77 "
+       id="polygon17" />
+    <rect
+       class="cls-2"
+       x="18.74"
+       y="24.120001"
+       width="4.4099998"
+       height="1"
+       id="rect19" />
+    <rect
+       class="cls-2"
+       x="18.74"
+       y="39.029999"
+       width="4.4099998"
+       height="1"
+       id="rect21" />
+    <rect
+       class="cls-2"
+       x="18.74"
+       y="31.959999"
+       width="4.4099998"
+       height="1"
+       id="rect23" />
+    <path
+       class="cls-1"
+       d="m 16.93,16.91 h 26.14 v 1.63 a 1.58,1.58 0 0 1 -1.58,1.58 h -23 a 1.58,1.58 0 0 1 -1.58,-1.58 v -1.63 z"
+       transform="rotate(180,30,18.515)"
+       id="path25"
+       style="fill:#333333;fill-opacity:1" />
+  </g>
+  <metadata
+     id="metadata847">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>estilos iconos paraeducaand_adultos</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
