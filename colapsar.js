@@ -2,6 +2,6 @@
 
 $(window).load(function(){
     $("p.toggle-idevice a").each(function(i){
-        if (i>0) $(this).click();
+        if (i>10) $(this).click();
     });
 });
